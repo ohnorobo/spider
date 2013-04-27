@@ -1,0 +1,7 @@
+
+Basic Web Crawler
+
+creates a list of working urls given a starting point
+
+currently starts from
+http://ccs.neu.edu
